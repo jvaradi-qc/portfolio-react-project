@@ -9,7 +9,7 @@ class Contact extends Component {
           <h1 className="contact-title"> Let's Work Together </h1>
           <p classname="contact-body">
             I'm always looking for new opportunities and exciting projects to
-            collaborate with. With my specialty in web devlopment, your vision
+            collaborate with. With my specialty in database development and ETL projects, your vision
             will be morphed into a website. We can connect via LinkedIn or
             email. Please get in touch and I will most definitely contact about
             building together.
@@ -17,15 +17,15 @@ class Contact extends Component {
           <button className="contact-btn">Contact Me</button>
         </div>
         <div className="footer">
-          <h1>Utica</h1>
+          <h1>John Varadi</h1>
           <div className="info">
             <p>
-              123 Demo Street <br />
-              Copenhagen, Denmark
+              110-45 Queens Blvd, Apt 601 <br />
+              Forest Hills, NY
             </p>
             <p>
-              (555)555-5555 <br />
-              email@example.com
+              (718)772-1073 <br />
+              jvaradi329@egmail.com
             </p>
           </div>
           <p>
