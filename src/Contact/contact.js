@@ -9,10 +9,10 @@ class Contact extends Component {
           <h1 className="contact-title"> Let's Work Together </h1>
           <p classname="contact-body">
             I'm always looking for new opportunities and exciting projects to
-            collaborate with. With my specialty in database development and ETL projects, your vision
-            will be morphed into a website. We can connect via LinkedIn or
+            collaborate with. With my specialty in database development and ETL projects, I will
+            help with automating your workflows. We can connect via LinkedIn or
             email. Please get in touch and I will most definitely contact about
-            building together.
+            building a solution together.
           </p>
           <button className="contact-btn">Contact Me</button>
         </div>
@@ -25,7 +25,7 @@ class Contact extends Component {
             </p>
             <p>
               (718)772-1073 <br />
-              jvaradi329@egmail.com
+              jvaradi329@gmail.com
             </p>
           </div>
           <p>
