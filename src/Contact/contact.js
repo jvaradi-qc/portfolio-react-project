@@ -21,7 +21,7 @@ class Contact extends Component {
           <div className="info">
             <p>
               110-45 Queens Blvd, Apt 601 <br />
-              Forest Hills, NY
+              Forest Hills, NY 11375
             </p>
             <p>
               (718)772-1073 <br />
