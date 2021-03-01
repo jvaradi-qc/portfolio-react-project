@@ -7,7 +7,7 @@ class Header extends Component {
     return (
       <div className="header">
         <div className="nav-bar">
-          <img src={logo} />
+          <img src={logo} alt="logo"/>
           <div className="nav-sections">
             <a href="#aboutMe">About Me</a>
             <a href="#projects">Projects</a>
