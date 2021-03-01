@@ -15,8 +15,8 @@ class Header extends Component {
           </div>
         </div>
         <div className="center-text">
-          <h1 className="title"> CODER </h1>
-          <h1 className="name">&lt;JOHN DOE/&gt;</h1>
+          <h1 className="title"> SOFTWARE DEVELOPER </h1>
+          <h1 className="name">&lt;JOHN VARADI/&gt;</h1>
         </div>
       </div>
     );
