@@ -29,7 +29,7 @@ class Contact extends Component {
             </p>
           </div>
           <p>
-            Made by <u>reSolve</u>
+            Made by <u>John Varadi</u>
           </p>
         </div>
       </div>
