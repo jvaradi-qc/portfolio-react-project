@@ -9,6 +9,22 @@ class Skills extends Component {
           <h1>Skill Proficiency</h1>
         </div>
         <div className="skills-section">
+        <div className="bar">
+            <div className="info">
+              <span>SQL/MS SQL Server/SSIS</span>
+            </div>
+            <div className="progress-bar sql">
+              <span></span>
+            </div>
+          </div>
+          <div className="bar">
+            <div className="info">
+              <span>HL7 Interfaces/Interface Engines</span>
+            </div>
+            <div className="progress-bar interfaceEngines">
+              <span></span>
+            </div>
+          </div>
           <div className="bar">
             <div className="info">
               <span>HTML/CSS</span>
@@ -30,14 +46,6 @@ class Skills extends Component {
               <span>Python</span>
             </div>
             <div className="progress-bar python">
-              <span></span>
-            </div>
-          </div>
-          <div className="bar">
-            <div className="info">
-              <span>C++</span>
-            </div>
-            <div className="progress-bar cplusplus">
               <span></span>
             </div>
           </div>

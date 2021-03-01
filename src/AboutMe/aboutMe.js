@@ -15,9 +15,9 @@ class AboutMe extends Component {
           <div className="short-bio-text">
             <h1>Hi I'm John.</h1>
             <p>
-              I am currently studying computer science at Queens College in NYC. I was born and
-              raised in Queens. I'm a passionate Software Developer 🚀 
-              experienced with databases, interface development, healthcare IT and programming languages
+              I am currently studying computer science at Queens College in NYC. 
+              I'm a passionate Software Developer 🚀 experienced with databases, interface development, 
+              healthcare IT and programming languages
               including JavaScript / React / Python / Django / Java / SQL and some
               other cool libraries and frameworks
             </p>
