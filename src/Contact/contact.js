@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import "./contact.css";
+import linkedIn from "./LI-In-Bug.png";
 
 class Contact extends Component {
   render() {
@@ -25,7 +26,8 @@ class Contact extends Component {
             </p>
             <p>
               (718)772-1073 <br />
-              jvaradi329@gmail.com
+              jvaradi329@gmail.com <br />
+              <a href="https://www.linkedin.com/in/john-varadi-b28a473"><img src={linkedIn} alt="LinkedIn" width="20" height="20"></img></a>
             </p>
           </div>
           <p>
